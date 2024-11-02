@@ -2,6 +2,8 @@
 
 A Python-based command-line tool that interacts with OpenAI's GPT-4 to generate and execute command-line solutions based on user input.
 
+![gcmd demo](https://github.com/user-attachments/assets/30f4029b-993d-419a-994d-a09c5d218873)
+
 ## Features
 - Receives user requests and returns command-line solutions.
 - Allows quick copy-to-clipboard functionality.
