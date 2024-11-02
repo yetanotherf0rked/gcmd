@@ -1,0 +1,4 @@
+openai
+pyperclip
+simple-term-menu
+distro

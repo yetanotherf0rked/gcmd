@@ -1,0 +1,10 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.vscode/
+.venv/
+env/
+venv/
+
+# Ignore API key file if stored locally
+*.env
